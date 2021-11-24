@@ -35,6 +35,6 @@
     "flat": "^5.0.2"
   },
   "devDependencies": {
-    "@vercel/ncc": "^0.31.1"
+    "@vercel/ncc": "^0.32.0"
   }
 }
